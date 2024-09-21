@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+# FICA FRIO
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`` 1º Semestre
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+As cidades de todo o mundo enfrentam a crescente frequência e gravidade das ondas de calor, tornando urgente a necessidade de acesso a recursos acessíveis e confiáveis ​​para proteger a saúde pública. A Defesa Civil, que possui perfis em diversas redes sociais e o novo serviço Defesa Civil Alerta, está incumbida de alertas a população sobre alterações climáticas e cuidados gerais. No entanto, as diretrizes emitidas pela Defesa Civil costumam ser direcionadas à população geral, e não há recomendações à população que habita a cidade acerca de onde é possível que os cidadãos consigam água potável gratuita, a fim de diminuir o sofrimento do cidadão em trânsito na cidade. Observando essa lacuna no serviço oferecido pelo governo brasileiro, propomos este projeto que visa desenvolver uma plataforma digital de fácil utilização que permita aos cidadãos localizar fontes de água potável para consumo humano. Ao fornecer informações em tempo real durante eventos de calor extremo, a plataforma procura reduzir os riscos associados às ondas de calor, promovendo bom equilíbrio da saúde pública e garantindo o acesso equitativo a recursos essenciais para todos os membros da comunidade. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Alice Maria Beteli Zanon Alonso
+* Gustavo Correia
+* Hudson
+* Mariana Santos Baptista
+* Maria Eduarda Microni Quites Ferreira
 
 ## Orientador
 
-* Nome completo do professor 1
+* Hayala Nepomuceno Curto
 
 ## Instruções de utilização
 
